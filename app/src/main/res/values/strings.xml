@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test_app_project</string>
+    <string name="field1">Valor1</string>
+    <string name="field2">Valor2</string>
+    <string name="button">Dale</string>
+    <string name="finale">Valor</string>
+    <string name="valid">Validacion</string>
+    <string name="description">next</string>
+    <string name="dosactivity">Wolaaaaa ha funionado</string>
+    <string name="patras">pa tras</string>
+    <string name="puntitos1">opcion juan</string>
+    <string name="puntitos2">opcion chu</string>
+    <string name="search">search</string>
+</resources>

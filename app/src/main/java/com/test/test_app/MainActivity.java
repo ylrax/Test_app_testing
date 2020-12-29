@@ -91,4 +91,11 @@ public class MainActivity extends AppCompatActivity {
         //finish();
     }
 
+    public void next2(View view){
+        Intent siguiente = new Intent(this, BdTestActivity.class);
+        startActivity(siguiente);
+        // se cerraria la main poniendo:
+        //finish();
+    }
+
 }

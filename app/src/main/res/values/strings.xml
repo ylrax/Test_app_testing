@@ -11,4 +11,8 @@
     <string name="puntitos1">opcion juan</string>
     <string name="puntitos2">opcion chu</string>
     <string name="search">search</string>
+    <string name="query_view">view the query</string>
+    <string name="insert">insert into the query</string>
+    <string name="valor">valor</string>
+    <string name="delete">delete</string>
 </resources>

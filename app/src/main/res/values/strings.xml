@@ -15,4 +15,5 @@
     <string name="insert">insert into the query</string>
     <string name="valor">valor</string>
     <string name="delete">delete</string>
+    <string name="random_date">Set random date</string>
 </resources>

@@ -98,4 +98,11 @@ public class MainActivity extends AppCompatActivity {
         //finish();
     }
 
+    public void nextCalendar(View view){
+        Intent siguiente = new Intent(this, CalendarActivity.class);
+        startActivity(siguiente);
+        // se cerraria la main poniendo:
+        //finish();
+    }
+
 }
